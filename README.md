@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julien! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Salesforce Project Manager</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AI Automation Specialist</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Julien! <br/><a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">Salesforce Project Manager</a>, <a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">AI Automation Specialist</a>, <a href="www.youtube.com/@JulienSnsn">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
