@@ -31,7 +31,7 @@
 [<img align="left" alt="JulienSnsn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Julien Sanson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: www.youtube.com/@JulienSnsn
+[youtube]: https://www.youtube.com/@JulienSnsn
 [linkedin]: https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/
 
 <!--
