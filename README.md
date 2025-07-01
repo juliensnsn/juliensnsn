@@ -6,6 +6,7 @@
 - <b><img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/>Glady</b>
 
   - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
+  - [Salesforce Glady Processes Restructuring](https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
