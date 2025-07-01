@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Salesforce Project Manager Projects:</h2>
 
-<img align="left" alt="Glady" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://imgur.com/a/CHOjqaO)" />
+<img align="left" alt="Glady" width="22px" src="[https://imgur.com/a/CHOjqaO]" />
 
 - <b>Glady</b>
   - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
