@@ -3,11 +3,7 @@
 <h2>☁️ Salesforce Project Manager Projects:</h2>
 
 
-<h3>
-  <img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/>
-  <a href="https://www.glady.com/">Glady</a>
-</h3>
-
+<h3><img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/><a href="https://www.glady.com/">Glady</a></h3>
 
   - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
   - [Salesforce Glady Processes Restructuring](https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring)
