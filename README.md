@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Salesforce Project Manager Projects:</h2>
 
-- <b><img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/>Glady</b>
+- <b><img align="left" alt="Glady" width="40px" src="https://imgur.com/6yNS8v1.png"/>Glady</b>
 
   - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
