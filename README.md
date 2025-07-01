@@ -16,7 +16,7 @@
 </h3>
 <div style="clear: both"></div>
 <ul>
-  <li><a href="https://github.com/juliensnsn/Media-Cadeau-Team-Implementation">Launch of a New Salesforce-Based Product Offering (Media-Cadeau)</a></li>
+  <li><a href="https://github.com/juliensnsn/CPQ-System-Implementation">CPQ System Implementation</a></li>
   <li><a href="https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring">Salesforce Glady Processes Restructuring</a></li>
   <li><a href="https://github.com/juliensnsn/Internal-Ticketing-System">Internal Ticketing System</a></li>
   <li><a href="https://github.com/juliensnsn/Onboarding-Automation-Process">Onboarding Automation Process</a></li>
