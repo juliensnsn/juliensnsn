@@ -3,7 +3,7 @@
 <h2>☁️ Salesforce Project Manager Projects:</h2>
 
 <h3>
-  <img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/>
+  <img align="left" alt="Glady" width="22px" src="https://imgur.com/ZBJWKTp.png"/>
   <a href="https://www.glady.com/">Glady</a>
 </h3>
 <div style="clear: both"></div>
