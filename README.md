@@ -46,8 +46,8 @@
 
 <a href="https://www.youtube.com/@JulienSnsn">🔴 Youtube</a><br>
 <a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">🔵 LinkedIn</a><br>
-<a href="https://www.tiktok.com/@julien.snsn">⚫️ TikTok</a>
-
+<a href="https://www.tiktok.com/@julien.snsn">⚫️ TikTok</a><br>
+<a href="https://fr.fiverr.com/s/yva2xz5">🟢 Fiverr</a>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
