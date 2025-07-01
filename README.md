@@ -1,8 +1,10 @@
 <h1>Hi, I'm Julien! <br/><a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">Salesforce Project Manager</a>, <a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">AI Automation Specialist</a>, <a href="https://www.youtube.com/@JulienSnsn">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Salesforce Project Manager Projects:</h2>
 
-- <b>Salesforce Project Manager</b>
+[<img align="left" alt="Glady" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://imgur.com/a/CHOjqaO)" />][Glady]
+
+- <b>Glady</b>
   - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
