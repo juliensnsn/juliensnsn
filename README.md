@@ -44,11 +44,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JulienSnsn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Julien Sanson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[youtube]: https://www.youtube.com/@JulienSnsn
-[linkedin]: https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/
+<a href="https://www.youtube.com/@JulienSnsn">🔴 Youtube</a>
+<a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">🔵 LinkedIn</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
