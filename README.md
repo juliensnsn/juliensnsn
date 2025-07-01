@@ -2,7 +2,7 @@
 
 <h2>🤖 AI Automation Specialist Projects:</h2>
 <ul>
-  <li><a href="https://github.com/juliensnsn/Media-Cadeau-Team-Implementation">Launch of a New Salesforce-Based Product Offering (Media-Cadeau)</a></li>
+  <li><a href="https://github.com/juliensnsn/Agency-Socials-Website-Management">Agency Socials & Website Management</a></li>
   <li><a href="https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring">Salesforce Glady Processes Restructuring</a></li>
   <li><a href="https://github.com/juliensnsn/Internal-Ticketing-System">Internal Ticketing System</a></li>
   <li><a href="https://github.com/juliensnsn/GTM-Strategy-Hubspot-Salesforce-Integration">GTM Strategy & Hubspot <> Salesforce Integration</a></li>
