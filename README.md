@@ -2,13 +2,18 @@
 
 <h2>☁️ Salesforce Project Manager Projects:</h2>
 
+<h3>
+  <img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/>
+  <a href="https://www.glady.com/">Glady</a>
+</h3>
+<div style="clear: both"></div>
+<ul>
+  <li><a href="https://github.com/juliensnsn/Media-Cadeau-Team-Implementation">Launch of a New Salesforce-Based Product Offering (Media-Cadeau)</a></li>
+  <li><a href="https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring">Salesforce Glady Processes Restructuring</a></li>
+  <li><a href="https://github.com/juliensnsn/Internal-Ticketing-System">Internal Ticketing System</a></li>
+  <li><a href="https://github.com/juliensnsn/Onboarding-Automation-Process">Onboarding Automation Process</a></li>
+</ul>
 
-<h3><img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/><a href="https://www.glady.com/">Glady</a></h3>
-
-  - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
-  - [Salesforce Glady Processes Restructuring](https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring)
-  - [Internal Ticketing System](https://github.com/juliensnsn/Internal-Ticketing-System)
-  - [Onboarding Automation Process](https://github.com/juliensnsn/Onboarding-Automation-Process)
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
