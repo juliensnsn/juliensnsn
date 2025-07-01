@@ -37,7 +37,7 @@
 
 <h2>📺 Some YouTube Videos</h2>
 
-- [Postez sur facebook & Instagram depuis n8n (META API Guide)](https://youtu.be/neVYoVwPAJo)
+- [Postez sur Facebook & Instagram depuis n8n (META API Guide)](https://youtu.be/neVYoVwPAJo)
 - [Agents IA sur n8n : les infos indispensables en 2025 !](https://youtu.be/V_YnYXYyudA) 
 - [Tutoriel n8n : Automatise tous tes posts LinkedIn ! (Nouvelle API GPT)](https://youtu.be/ZgKI3NHzHfg)
 - [MCP Natif dans n8n + Intégration Claude (Guide Complet)](https://youtu.be/yrsKh8CPpfw)
