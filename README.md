@@ -18,7 +18,7 @@
 <ul>
   <li><a href="https://github.com/juliensnsn/CPQ-System-Implementation">CPQ System Implementation</a></li>
   <li><a href="https://github.com/juliensnsn/AI-Agent-Cold-Calling">AI Agent Cold-Calling</a></li>
-  <li><a href="https://github.com/juliensnsn/Internal-Ticketing-System">Internal Ticketing System</a></li>
+  <li><a href="https://github.com/juliensnsn/Evolution-of-Sales-Processes">Evolution of Sales Processes</a></li>
   <li><a href="https://github.com/juliensnsn/Onboarding-Automation-Process">Onboarding Automation Process</a></li>
 </ul>
 
