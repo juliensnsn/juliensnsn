@@ -35,13 +35,12 @@
   <li><a href="https://github.com/juliensnsn/Onboarding-Automation-Process">Onboarding Automation Process</a></li>
 </ul>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Some YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Postez sur facebook & Instagram depuis n8n (META API Guide)](https://youtu.be/neVYoVwPAJo)
+- [Agents IA sur n8n : les infos indispensables en 2025 !](https://youtu.be/V_YnYXYyudA) 
+- [Tutoriel n8n : Automatise tous tes posts LinkedIn ! (Nouvelle API GPT)](https://youtu.be/ZgKI3NHzHfg)
+- [MCP Natif dans n8n + Intégration Claude (Guide Complet)](https://youtu.be/yrsKh8CPpfw)
 
 <h2> 🤳 Connect with me:</h2>
 
