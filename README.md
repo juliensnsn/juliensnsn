@@ -11,8 +11,8 @@
 <h2>☁️ Salesforce Project Manager Projects:</h2>
 
 <h3>
-  <img align="left" alt="Glady" width="22px" src="https://imgur.com/ZBJWKTp.png"/>
-  <a href="https://www.glady.com/">Glady</a>
+  <img align="left" alt="Veesion" width="22px" src="https://imgur.com/Kz3oyLj.png"/>
+  <a href="https://veesion.io/">Veesion</a>
 </h3>
 <div style="clear: both"></div>
 <ul>
@@ -23,8 +23,8 @@
 </ul>
 
 <h3>
-  <img align="left" alt="Veesion" width="22px" src="https://imgur.com/Kz3oyLj.png"/>
-  <a href="https://veesion.io/">Veesion</a>
+  <img align="left" alt="Glady" width="22px" src="https://imgur.com/ZBJWKTp.png"/>
+  <a href="https://www.glady.com/">Glady</a>
 </h3>
 <div style="clear: both"></div>
 <ul>
