@@ -44,7 +44,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.youtube.com/@JulienSnsn">🔴 Youtube</a>
+<a href="https://www.youtube.com/@JulienSnsn">🔴 Youtube</a><br>
 <a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">🔵 LinkedIn</a>
 
 <!--
