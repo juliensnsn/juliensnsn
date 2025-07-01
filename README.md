@@ -8,6 +8,8 @@
   - [Launch of a New Salesforce-Based Product Offering (Media-Cadeau)](https://github.com/juliensnsn/Media-Cadeau-Team-Implementation)
   - [Salesforce Glady Processes Restructuring](https://github.com/juliensnsn/Salesforce-Glady-Processes-Restructuring)
   - [Internal Ticketing System](https://github.com/juliensnsn/Internal-Ticketing-System)
+  - [Onboarding Automation Process](https://github.com/juliensnsn/Onboarding-Automation-Process)
+    
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
