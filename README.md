@@ -4,7 +4,7 @@
 <ul>
   <li><a href="https://github.com/juliensnsn/Agency-Socials-Website-Management">Agency Socials & Website Management</a></li>
   <li><a href="https://github.com/juliensnsn/AI-SDR-Automation">AI SDR Automation</a></li>
-  <li><a href="https://github.com/juliensnsn/Internal-Ticketing-System">Internal Ticketing System</a></li>
+  <li><a href="https://github.com/juliensnsn/Icebreaker-Generator">Icebreaker Generator</a></li>
   <li><a href="https://github.com/juliensnsn/Newsletter-Automation">Newsletter Automation</a></li>
 </ul>
 
