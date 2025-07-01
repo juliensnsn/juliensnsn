@@ -1,6 +1,6 @@
 <h1>Hi, I'm Julien! <br/><a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">Salesforce Project Manager</a>, <a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">AI Automation Specialist</a>, <a href="https://www.youtube.com/@JulienSnsn">YouTuber</a></h1>
 
-<h2>👨‍💻 Salesforce Project Manager Projects:</h2>
+<h2>☁️ Salesforce Project Manager Projects:</h2>
 
 
 - <b><img align="left" alt="Glady" width="22px" src="https://imgur.com/6yNS8v1.png"/>Glady</b>
