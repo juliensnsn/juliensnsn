@@ -4,7 +4,7 @@
 <h2>🟠 Hubspot Expert & GTM Engineer</h2>
 
 <h3>
-  <img align="left" alt="Veesion" width="22px" src="https://imgur.com/Kz3oyLj.png"/>
+  <img align="left" alt="Kaffe Bueno" width="22px" src="https://imgur.com/a/GGjOBGD"/>
   <a href="https://www.kaffebueno.com/">Kaffe Bueno</a>
 </h3>
 <div style="clear: both"></div>
