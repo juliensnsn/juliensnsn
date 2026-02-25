@@ -1,5 +1,18 @@
 <h1>Hi, I'm Julien! <br/><a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">Salesforce Project Manager</a>, <a href="https://www.linkedin.com/in/julien-sanson-%F0%9F%A6%A5-0a03b3128/">AI Automation Specialist</a>, <a href="https://www.youtube.com/@JulienSnsn">YouTuber</a></h1>
 
+
+<h2>🟠 Hubspot Expert & GTM Engineer</h2>
+
+<h3>
+  <img align="left" alt="Veesion" width="22px" src="[https://imgur.com/Kz3oyLj.png](https://imgur.com/a/GGjOBGD)"/>
+  <a href="https://www.kaffebueno.com/">Kaffe Bueno</a>
+</h3>
+<div style="clear: both"></div>
+<ul>
+  <li><a href="https://github.com/juliensnsn/Hubspot-Expert---GTM-Engineer">Project Details</a></li>
+</ul>
+
+
 <h2>🤖 AI Automation Specialist Projects:</h2>
 <ul>
   <li><a href="https://github.com/juliensnsn/Agency-Socials-Website-Management">Agency Socials & Website Management</a></li>
